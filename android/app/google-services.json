@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243846470318",
+    "project_id": "eat-and-share-4f0a0",
+    "storage_bucket": "eat-and-share-4f0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243846470318:android:fa1651cf2b03d00c24eb3f",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243846470318-8jj8g7dhsanvjc0142p6v97t3vmq1o6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04kJhOd-TRu93mLPLW8aCfa6XTUbz4zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243846470318-8jj8g7dhsanvjc0142p6v97t3vmq1o6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
